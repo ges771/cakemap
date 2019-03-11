@@ -1,0 +1,111 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1490556, 
+                    39.0899935
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Cakenocake", 
+                "text": "Shhhh! No cake allowed here."
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2019357, 
+                    39.0941929
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Cakenocake", 
+                "text": "Too late for cake!"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1533772, 
+                    39.0882698
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Cakenocake", 
+                "text": "Cake again at last!"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1904636, 
+                    38.9593628
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Cakenocake", 
+                "text": "No cake in sight... :("
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.631744, 
+                    38.9028889
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Cakenocake", 
+                "text": "No cake in sight"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1458199, 
+                    39.0784242
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Cakenocake", 
+                "text": "Still no sign of cake."
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": null, 
+            "properties": {
+                "name": "Cakenocake", 
+                "text": "The presence of cake at this location cannot be confirmed. But the chocolate is good."
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0964588, 
+                    38.9896373
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Cakenocake", 
+                "text": "There is no cake at this location."
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
